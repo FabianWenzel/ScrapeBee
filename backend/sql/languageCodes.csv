@@ -1,0 +1,186 @@
+id;name;nativename;code
+0;Northwest Caucasian;Abkhaz;ab
+1;Afro-Asiatic;Afar;aa
+2;Indo-European;Afrikaans;af
+3;Niger-Congo;Akan;ak
+4;Indo-European;Albanian;sq
+5;Afro-Asiatic;Amharic;am
+6;Afro-Asiatic;Arabic;ar
+7;Indo-European;Aragonese;an
+8;Indo-European;Armenian;hy
+9;Indo-European;Assamese;as
+10;Northeast Caucasian;Avaric;av
+11;Indo-European;Avestan;ae
+12;Aymaran;Aymara;ay
+13;Turkic;Azerbaijani;az
+14;Niger-Congo;Bambara;bm
+15;Turkic;Bashkir;ba
+16;Language isolate;Basque;eu
+17;Indo-European;Belarusian;be
+18;Indo-European;Bengali, Bangla;bn
+19;Indo-European;Bihari;bh
+20;Creole;Bislama;bi
+21;Indo-European;Bosnian;bs
+22;Indo-European;Breton;br
+23;Indo-European;Bulgarian;bg
+24;Sino-Tibetan;Burmese;my
+25;Indo-European;Catalan;ca
+26;Austronesian;Chamorro;ch
+27;Northeast Caucasian;Chechen;ce
+28;Niger-Congo;Chichewa, Chewa, Nyanja;ny
+29;Sino-Tibetan;Chinese;zh
+30;Turkic;Chuvash;cv
+31;Indo-European;Cornish;kw
+32;Indo-European;Corsican;co
+33;Algonquian;Cree;cr
+34;Indo-European;Croatian;hr
+35;Indo-European;Czech;cs
+36;Indo-European;Danish;da
+37;Indo-European;Divehi, Dhivehi, Maldivian;dv
+38;Indo-European;Dutch;nl
+39;Sino-Tibetan;Dzongkha;dz
+40;Indo-European;English;en
+41;Constructed;Esperanto;eo
+42;Uralic;Estonian;et
+43;Niger-Congo;Ewe;ee
+44;Indo-European;Faroese;fo
+45;Austronesian;Fijian;fj
+46;Uralic;Finnish;fi
+47;Indo-European;French;fr
+48;Niger-Congo;Fula, Fulah, Pulaar, Pular;ff
+49;Indo-European;Galician;gl
+50;South Caucasian;Georgian;ka
+51;Indo-European;German;de
+52;Indo-European;Greekò(modern);el
+53;Tupian;Guaran≠;gn
+54;Indo-European;Gujarati;gu
+55;Creole;Haitian, Haitian Creole;ht
+56;Afro-Asiatic;Hausa;ha
+57;Afro-Asiatic;Hebrewò(modern);he
+58;Niger-Congo;Herero;hz
+59;Indo-European;Hindi;hi
+60;Austronesian;Hiri Motu;ho
+61;Uralic;Hungarian;hu
+62;Constructed;Interlingua;ia
+63;Austronesian;Indonesian;id
+64;Constructed;Interlingue;ie
+65;Indo-European;Irish;ga
+66;Niger-Congo;Igbo;ig
+67;Eskimo-Aleut;Inupiaq;ik
+68;Constructed;Ido;io
+69;Indo-European;Icelandic;is
+70;Indo-European;Italian;it
+71;Eskimo-Aleut;Inuktitut;iu
+72;Japonic;Japanese;ja
+73;Austronesian;Javanese;jv
+74;Eskimo-Aleut;Kalaallisut, Greenlandic;kl
+75;Dravidian;Kannada;kn
+76;Nilo-Saharan;Kanuri;kr
+77;Indo-European;Kashmiri;ks
+78;Turkic;Kazakh;kk
+79;Austroasiatic;Khmer;km
+80;Niger-Congo;Kikuyu, Gikuyu;ki
+81;Niger-Congo;Kinyarwanda;rw
+82;Turkic;Kyrgyz;ky
+83;Uralic;Komi;kv
+84;Niger-Congo;Kongo;kg
+85;Koreanic;Korean;ko
+86;Indo-European;Kurdish;ku
+87;Niger-Congo;Kwanyama, Kuanyama;kj
+88;Indo-European;Latin;la
+89;Indo-European;Luxembourgish, Letzeburgesch;lb
+90;Niger-Congo;Ganda;lg
+91;Indo-European;Limburgish, Limburgan, Limburger;li
+92;Niger-Congo;Lingala;ln
+93;Tai-Kadai;Lao;lo
+94;Indo-European;Lithuanian;lt
+95;Niger-Congo;Luba-Katanga;lu
+96;Indo-European;Latvian;lv
+97;Indo-European;Manx;gv
+98;Indo-European;Macedonian;mk
+99;Austronesian;Malagasy;mg
+100;Austronesian;Malay;ms
+101;Dravidian;Malayalam;ml
+102;Afro-Asiatic;Maltese;mt
+103;Austronesian;M-ori;mi
+104;Indo-European;Marathi (Mar--h-);mr
+105;Austronesian;Marshallese;mh
+106;Mongolic;Mongolian;mn
+107;Austronesian;Nauruan;na
+108;Den?-Yeniseian;Navajo, Navaho;nv
+109;Niger-Congo;Northern Ndebele;nd
+110;Indo-European;Nepali;ne
+111;Niger-Congo;Ndonga;ng
+112;Indo-European;Norwegian Bokm?l;nb
+113;Indo-European;Norwegian Nynorsk;nn
+114;Indo-European;Norwegian;no
+115;Sino-Tibetan;Nuosu;ii
+116;Niger-Congo;Southern Ndebele;nr
+117;Indo-European;Occitan;oc
+118;Algonquian;Ojibwe, Ojibwa;oj
+119;Indo-European;Old Church Slavonic,òChurch Slavonic,òOld Bulgarian;cu
+120;Afro-Asiatic;Oromo;om
+121;Indo-European;Oriya;or
+122;Indo-European;Ossetian, Ossetic;os
+123;Indo-European;Panjabi, Punjabi;pa
+124;Indo-European;P-li;pi
+125;Indo-European;Persianò(Farsi);fa
+126;Indo-European;Polish;pl
+127;Indo-European;Pashto, Pushto;ps
+128;Indo-European;Portuguese;pt
+129;Quechuan;Quechua;qu
+130;Indo-European;Romansh;rm
+131;Niger-Congo;Kirundi;rn
+132;Creole;Reunionese,òReunion Creole;rc
+133;Indo-European;Romanian;ro
+134;Indo-European;Russian;ru
+135;Indo-European;Sanskrit (Sa-sk-ta);sa
+136;Indo-European;Sardinian;sc
+137;Indo-European;Sindhi;sd
+138;Uralic;Northern Sami;se
+139;Austronesian;Samoan;sm
+140;Creole;Sango;sg
+141;Indo-European;Serbian;sr
+142;Indo-European;Scottish Gaelic, Gaelic;gd
+143;Niger-Congo;Shona;sn
+144;Indo-European;Sinhalese, Sinhala;si
+145;Indo-European;Slovak;sk
+146;Indo-European;Slovene;sl
+147;Afro-Asiatic;Somali;so
+148;Niger-Congo;Southern Sotho;st
+149;Indo-European;Spanish;es
+150;Austronesian;Sundanese;su
+151;Niger-Congo;Swahili;sw
+152;Niger-Congo;Swati;ss
+153;Indo-European;Swedish;sv
+154;Dravidian;Tamil;ta
+155;Dravidian;Telugu;te
+156;Indo-European;Tajik;tg
+157;Tai-Kadai;Thai;th
+158;Afro-Asiatic;Tigrinya;ti
+159;Sino-Tibetan;Tibetan Standard, Tibetan, Central;bo
+160;Turkic;Turkmen;tk
+161;Austronesian;Tagalog;tl
+162;Niger-Congo;Tswana;tn
+163;Austronesian;Tongaò(Tonga Islands);to
+164;Turkic;Turkish;tr
+165;Niger-Congo;Tsonga;ts
+166;Turkic;Tatar;tt
+167;Niger-Congo;Twi;tw
+168;Austronesian;Tahitian;ty
+169;Turkic;Uyghur;ug
+170;Indo-European;Ukrainian;uk
+171;Indo-European;Urdu;ur
+172;Turkic;Uzbek;uz
+173;Niger-Congo;Venda;ve
+174;Austroasiatic;Vietnamese;vi
+175;Constructed;VolapÅk;vo
+176;Indo-European;Walloon;wa
+177;Indo-European;Welsh;cy
+178;Niger-Congo;Wolof;wo
+179;Indo-European;Western Frisian;fy
+180;Niger-Congo;Xhosa;xh
+181;Indo-European;Yiddish;yi
+182;Niger-Congo;Yoruba;yo
+183;Tai-Kadai;Zhuang, Chuang;za
+184;Niger-Congo;Zulu;zu
