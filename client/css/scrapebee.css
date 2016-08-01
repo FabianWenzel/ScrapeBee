@@ -1,0 +1,156 @@
+/*
+/ WEBSITE STYLES
+*/
+
+@font-face {
+    font-family: 'open_sansbold';
+    src: url('../fonts/opensans-bold-webfont.woff2') format('woff2'),
+         url('../fonts/opensans-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'open_sanslight';
+    src: url('../fonts/opensans-light-webfont.woff2') format('woff2'),
+         url('../fonts/opensans-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('../fonts/opensans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/opensans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+	font-family: 'open_sansregular';
+	font-size: 16px;
+}
+
+.fixed-bg {
+	/* The background image */
+	background-image: url("../images/bg7.jpg");
+	/* Set a specified height, or the minimum height for the background image */
+	min-height: 500px;
+	/* Set background image to fixed (don't scroll along with the page) */
+	background-attachment: fixed;
+	/* Center the background image */
+	background-position: center;
+	/* Set the background image to no repeat */
+	background-repeat: no-repeat;
+	/* Scale the background image to be as large as possible */
+	background-size: cover;
+}
+
+.content {
+	padding: 25px;
+	font-size: 20px;
+	font-family: 'open_sansregular';
+	background-color: #fff;
+}
+
+.pleasewait {
+	padding: 30px;
+	font-size: 20px;
+	font-family: 'open_sansregular';
+	background-color: #fff;
+}
+
+.loader {
+	background: url('../images/balls.gif') no-repeat center center;
+	height: 80px;
+}
+
+
+
+
+/*
+/ D3JS Styles for TreeMap
+*/
+
+.rect {
+  border: solid 1px white;
+  }
+#chart {
+	overflow: hidden;
+}
+
+.rect {
+	pointer-events: all;
+	cursor: pointer;
+	stroke: #fff;
+}
+
+.chart {
+	display: block;
+	margin: auto;
+}
+
+.parent .label {
+	color: #fff;
+	font: 10px sans-serif;
+  line-height: 12px;
+  text-indent: 2px;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  padding: 5px;
+	/*
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+	-webkit-text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+	-moz-text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+	*/
+}
+
+.labelbody {
+	background: transparent;
+}
+
+.label {
+	display: block;
+	white-space: pre;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	text-align: left;
+	font-size: 15px;
+	font-family: 'open_sanslight';
+}
+
+.child .label {
+	white-space: pre-wrap;
+	
+	text-overflow: ellipsis;
+}
+
+.cell {
+	font-size: 15px;
+	font-family: 'open_sanslight';
+	cursor: pointer
+}
+.own-sm-offset-1 {
+    margin-left: 4.33333%;
+}
+
+#tree {
+	box-sizing: content-box;
+}
+
+.node {
+  box-sizing: content-box;
+  border: solid 1px white;
+  font-size: 12px;
+  overflow: hidden;
+  position: absolute;
+  text-indent: 2px;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  padding: 5px;
+}
+
+#article {
+    background: #fff none repeat scroll 0 0;
+    padding: 30px;
+}

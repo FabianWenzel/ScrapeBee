@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="de">
+	<head>
+		<title>ScrapeBee</title>
+		<link rel="icon" type="image/png" href="images/icon.png" />
+		
+		<!-- Style Sheets -->
+		<link rel="stylesheet" href="css/bootstrap.min.css" />
+		<link rel="stylesheet" href="css/bootstrap-theme.min.css" />
+		<link rel="stylesheet" href="css/scrapebee.css" />
+		
+		<!-- JavaScript Dateien -->
+		<script src="js/jquery-2.2.4.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/d3.v3.min.js"></script>
+		<script src="js/treemap.js"></script>
+	</head>
+	<body class="fixed-bg">
+		<div class="container-fluid">
+			<div class="row">&nbsp;</div>
+			<div class="row">
+				<div class="col-md-3 col-md-offset-1"><a href="index.html"><img id="logo" src="images/logo2.png" border="0" /></a></div>
+			</div>
+			<div class="row">&nbsp;</div>
+			<form>
+				<div id="content" class="col-xs-12 col-sm-12 col-md-5">
+					<div class="row">
+						<div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2">
+								<div class="form-group">
+									<textarea id="links" class="form-control" rows="7" placeholder="Hyperlinks">http://www.spiegel.de/schlagzeilen/index.rss;
+http://rss.focus.de/fol/XML/rss_folnews.xml;
+http://rss.sueddeutsche.de/app/service/rss/alles/index.rss?output=rss;
+http://newsfeed.zeit.de/all</textarea>
+								</div>
+						</div>
+					</div>
+					<div id="buttonRow" class="row">
+						<div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-5 col-md-offset-5 col-lg-4 col-lg-offset-6">										
+							<button class="btn btn-success col-xs-12" type="submit">let the magic happen</button><br /><br />
+						</div>
+					</div>
+				</div>
+				<div id="article" class="col-xs-12 col-sm-10 own-sm-offset-1 col-md-6">
+					Herzlich Willkommen bei ScrapeBee :)
+				</div>
+				<div id="freeSpace" class="col-sm-1 hidden-xs">&nbsp;</div>
+			</form>
+			<div class="row">&nbsp;</div>
+		</div>
+	
+		<!-- Socket.io + Client JS -->
+		<script src="socket.io/socket.io.js"></script>
+		<script src="js/client.js" charset="utf-8"></script>
+	</body>
+</html>
